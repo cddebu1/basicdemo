@@ -4,3 +4,5 @@ Added line to test branch which is not on master
 Add file under master and now merging this change to master
 
 Conflict merge for master and test
+
+Added extra line to test branch
