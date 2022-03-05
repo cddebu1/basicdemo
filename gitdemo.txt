@@ -8,3 +8,7 @@ Add text to create conflict with master and test branch.
 Conflict merge for master and test
 
 Testing conflict via vscode
+
+Conflict merge for master and test
+
+Added extra line to test branch
