@@ -2,3 +2,5 @@ Demo
 Added line to test branch which is not on master
 
 Add file under master and now merging this change to master
+
+Add text to create conflict with master and test branch.
